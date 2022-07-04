@@ -1,4 +1,4 @@
-# Daily-Git-Commit 1
+# Daily-Git-Commit
 
 Commit to repo every day for the perfect commit streak
 
