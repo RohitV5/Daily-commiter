@@ -63,5 +63,6 @@ Short answer: NO!
 Detailed answer:
 I asked this question on [stackoverflow](https://stackoverflow.com/questions/66496319/is-it-against-github-tos-to-make-commits-daily-with-gitpython), and any other question you have is answered there!
 
-run this cmd in vscode ==> python main.py   
+run this cmd in vscode ==> python main.py  
+ 
 
